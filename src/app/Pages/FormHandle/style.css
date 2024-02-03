@@ -1,0 +1,11 @@
+.form-input{
+    margin:10px
+}
+.form-input > input{
+    height: 25px;
+    border-radius: 5px;
+    width: 100%;
+}
+.form-input-label{
+    color: green;
+}
